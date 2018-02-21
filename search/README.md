@@ -3,7 +3,7 @@
 In this project, your Pac-Man agent will find paths through his maze world, both to reach a particular location and to collect food efficiently. You will build general search algorithms and apply them to Pac-Man scenarios.
 
 <p align='center>
-  <src="https://github.com/ngbolin/pacman_projects/blob/master/images/maze.png">
+  <img width="460" height="460" src="https://github.com/ngbolin/pacman_projects/blob/master/images/maze.png">
 </p>
           
 For this assignment, we will be implementing the following Searches, and tackling the following problems:

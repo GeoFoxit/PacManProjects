@@ -14,7 +14,7 @@ There are 5 projects in total, each focusing on specific segments of the course:
 Students implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 
 
-**Multi-Agent Search**
+[**Multi-Agent Search**](https://github.com/ngbolin/pacman_projects/tree/master/multiagent)
 
 Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
 

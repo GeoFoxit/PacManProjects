@@ -9,7 +9,7 @@ As part of UC Berkeley's introductory Artificial Intelligence Course, CS 188, th
 
 There are 5 projects in total, each focusing on specific segments of the course:
 
-**Search**
+[**Search**](https://github.com/ngbolin/pacman_projects/tree/master/search)
 
 Students implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 

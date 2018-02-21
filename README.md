@@ -2,7 +2,7 @@
 As part of UC Berkeley's introductory Artificial Intelligence Course, CS 188, the Pac-Man projects were developed to help students understand the lesson material better. You can find more information on their [website](http://ai.berkeley.edu/project_overview.html).
 
 
-[!Pac-Man searching for food](https://github.com/ngbolin/pacman_projects/blob/master/images/pacman.jpg)
+![Pac-Man searching for food](https://github.com/ngbolin/pacman_projects/blob/master/images/pacman.jpg)
 
 
 There are 5 projects in total:

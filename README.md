@@ -5,7 +5,9 @@ As part of UC Berkeley's introductory Artificial Intelligence Course, CS 188, th
 ![Pac-Man searching for food](https://github.com/ngbolin/pacman_projects/blob/master/images/pacman.jpg)
 
 
-There are 5 projects in total:
+## Projects
+
+There are 5 projects in total, each focusing on specific segments of the course:
 
 **Search**
 

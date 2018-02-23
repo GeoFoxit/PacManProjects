@@ -11,7 +11,7 @@ There are 5 projects in total, each focusing on specific segments of the course:
 
 [**Search**](https://github.com/ngbolin/pacman_projects/tree/master/search)
 
-Students implement depth-first, breadth-first, uniform cost, and A* search algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
+Students implement [depth-first](https://en.wikipedia.org/wiki/Depth-first_search), [breadth-first](https://en.wikipedia.org/wiki/Breadth-first_search), [uniform cost](https://algorithmicthoughts.wordpress.com/2012/12/15/artificial-intelligence-uniform-cost-searchucs/), and [A* search](https://en.wikipedia.org/wiki/A*_search_algorithm) algorithms. These algorithms are used to solve navigation and traveling salesman problems in the Pacman world.
 
 
 [**Multi-Agent Search**](https://github.com/ngbolin/pacman_projects/tree/master/multiagent)
@@ -26,7 +26,7 @@ Students implement model-based and model-free reinforcement learning algorithms,
 
 **Ghostbusters**
 
-Probabilistic inference in a hidden Markov model tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the forward algorithm and approximate inference via particle filters.
+Probabilistic inference in a [Hidden Markov Model](https://en.wikipedia.org/wiki/Hidden_Markov_model) tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the forward algorithm and approximate inference via particle filters.
 
 
 **Classification**

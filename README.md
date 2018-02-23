@@ -16,7 +16,7 @@ Students implement [depth-first](https://en.wikipedia.org/wiki/Depth-first_searc
 
 [**Multi-Agent Search**](https://github.com/ngbolin/pacman_projects/tree/master/multiagent)
 
-Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
+Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent [minimax](https://en.wikipedia.org/wiki/Minimax) and [expectimax](https://web.uvic.ca/~maryam/AISpring94/Slides/06_ExpectimaxSearch.pdf) algorithms, as well as designing evaluation functions.
 
 
 [**Reinforcement Learning**](https://github.com/ngbolin/PacManProjects/tree/master/reinforcement)

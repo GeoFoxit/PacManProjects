@@ -19,7 +19,7 @@ Students implement depth-first, breadth-first, uniform cost, and A* search algor
 Classic Pacman is modeled as both an adversarial and a stochastic search problem. Students implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
 
 
-**Reinforcement Learning**
+[**Reinforcement Learning**](https://github.com/ngbolin/PacManProjects/tree/master/reinforcement)
 
 Students implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
 

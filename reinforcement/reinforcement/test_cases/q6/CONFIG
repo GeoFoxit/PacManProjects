@@ -1,1 +1,2 @@
-q
+max_points: "1"
+class: "PassAllTestsQuestion"

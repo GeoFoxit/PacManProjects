@@ -19,12 +19,12 @@ Classic Pacman is modeled as both an adversarial and a stochastic search problem
 
 [**Reinforcement Learning**](https://github.com/ngbolin/PacManProjects/tree/master/reinforcement)
 
-Students implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
+Students implement model-based and model-free [reinforcement learning](https://en.wikipedia.org/wiki/Reinforcement_learning) algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
 
 
 [**Ghostbusters**](https://github.com/ngbolin/PacManProjects/tree/master/tracking)
 
-Probabilistic inference in a [Hidden Markov Model](https://en.wikipedia.org/wiki/Hidden_Markov_model) tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the forward algorithm and approximate inference via particle filters.
+Probabilistic inference in a [Hidden Markov Model](https://en.wikipedia.org/wiki/Hidden_Markov_model) tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the [forward algorithm](https://en.wikipedia.org/wiki/Forward_algorithm) and [approximate inference via particle filters](https://en.wikipedia.org/wiki/Particle_filter).
 
 
 [**Classification**](https://github.com/ngbolin/PacManProjects/tree/master/classification)

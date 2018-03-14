@@ -2,6 +2,8 @@
 
 In this project, you will design agents for the classic version of Pacman, including ghosts. Along the way, you will implement both minimax and expectimax search and try your hand at evaluation function design.
 
+![Avoid the ghosts!](https://github.com/ngbolin/PacManProjects/blob/master/images/pacman_multi_agent.png)
+
 For this assignment, we will be writing code to help our Agents find the optimal path to find all the food dots. These are the problems we will be working on:
 
 1. Reflex Agent (Action Assessment)

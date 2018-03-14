@@ -27,6 +27,6 @@ Students implement model-based and model-free reinforcement learning algorithms,
 Probabilistic inference in a [Hidden Markov Model](https://en.wikipedia.org/wiki/Hidden_Markov_model) tracks the movement of hidden ghosts in the Pacman world. Students implement exact inference using the forward algorithm and approximate inference via particle filters.
 
 
-**Classification**
+[**Classification**](https://github.com/ngbolin/PacManProjects/tree/master/classification)
 
 Students implement standard machine learning classification algorithms using Naive Bayes, Perceptron, and MIRA models to classify digits. Students extend this by implementing a behavioral cloning Pacman agent.

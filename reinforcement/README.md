@@ -2,6 +2,8 @@
 
 In this project, you will implement value iteration and Q-learning. You will test your agents first on Gridworld (from class), then apply them to a simulated robot controller (Crawler) and Pacman.
 
+![PacMan shall learn from his past failure to emerge victorious!](https://github.com/ngbolin/PacManProjects/blob/master/images/capsule.png)
+
 These are the problems we will be working on:
 
 1. Value Iteration

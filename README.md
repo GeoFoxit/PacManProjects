@@ -1,6 +1,7 @@
 # Pac-Man Projects
 As part of UC Berkeley's introductory Artificial Intelligence Course, CS 188, the Pac-Man projects were developed to help students understand the lesson material better. You can find more information on their [website](http://ai.berkeley.edu/project_overview.html).
 
+![https://github.com/ngbolin/PacManProjects/blob/master/images/maze.png](Can we help Pacman navigate this maze?)
 
 ## Projects
 

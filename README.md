@@ -29,4 +29,4 @@ Probabilistic inference in a [Hidden Markov Model](https://en.wikipedia.org/wiki
 
 [**Classification**](https://github.com/ngbolin/PacManProjects/tree/master/classification)
 
-Students implement standard machine learning classification algorithms using Naive Bayes, Perceptron, and MIRA models to classify digits. Students extend this by implementing a behavioral cloning Pacman agent.
+Students implement standard machine learning classification algorithms using [Naive Bayes](https://en.wikipedia.org/wiki/Naive_Bayes_classifier), [Perceptron](https://en.wikipedia.org/wiki/Perceptron), and [MIRA](https://en.wikipedia.org/wiki/Margin-infused_relaxed_algorithm) models to [classify digits](https://en.wikipedia.org/wiki/MNIST_database). Students extend this by implementing a behavioral cloning Pacman agent.
